@@ -1,10 +1,10 @@
 # DSIP
 ## DevStack Student Internship Program 
-### Domain : Data Science Intern 
+### Domain : Data Science & AI Intern
 #### Task 1: Fake News Detecting System with Machine learning
 ##### Technology used: Python
 
-###### Code Editor: VS Code
+###### Code Editor: Jupyter Notebook
   Copyright (c) 2022 Karan Doke batch May
   
 **Let's connect with me on GitHub!!!!**
