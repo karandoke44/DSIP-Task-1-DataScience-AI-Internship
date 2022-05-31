@@ -2,6 +2,7 @@
 ## DevStack Student Internship Program 
 ### Domain : Data Science & AI Intern
 #### Task 1: Fake News Detecting System with Machine learning
+##### Dataset link:- https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
 ##### Technology used: Python
 
 ###### Code Editor: Jupyter Notebook
